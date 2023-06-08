@@ -1,12 +1,9 @@
-# PalmisHT
-
-## Kiyès Nou Ye 
+# Kiyès Nou Ye 
 Byenvini sou paj gwoup Telegram PalmisHT an. 
 Nou se yon gwoup ayisyen ki deside mete ansanm pou nou konstwi Ayiti nou vle a ak pwojè epi aksyon konkrè. 
 
 
-## Règ Gwoup Lan
-
+# Règ Gwoup Lan
 
 Gwoup sa a se yon gwoup prive. Objektif nou se: 
 
@@ -38,5 +35,6 @@ Evite ekspilsyon:
 
 ❗️Sou 3èm avètisman an, administratè yo ap mete w deyò.❗
 
-## Pwojè 
+
+# Pwojè 
 1. Materyèl medikal pou lopital Justinien nan vil Okap. 
