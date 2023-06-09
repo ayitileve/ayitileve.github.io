@@ -5,7 +5,7 @@ Nou se yon gwoup ayisyen ki deside mete ansanm pou nou konstwi Ayiti nou vle a a
 
 # Règ Gwoup Lan
 
-Gwoup sa a se yon gwoup prive. Objektif nou se: 
+Gwoup sa a se yon gwoup **prive**. Objektif nou se: 
 
 ✅ Reyini sila ki vle ede Ayiti men ki swa pa konnen kòman, swa yo pa jwenn on strikti fyab pou yo rantre ladann.
 
@@ -37,4 +37,4 @@ Evite ekspilsyon:
 
 
 # Pwojè 
-1. Materyèl medikal pou lopital Justinien nan vil Okap. 
+1. [Materyèl medikal pou lopital Justinien nan vil Okap](./justinien.html) 
