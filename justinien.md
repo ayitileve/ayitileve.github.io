@@ -16,7 +16,7 @@ Premye sektè nou vle atake se sektè sante a. Nou vle...
 ## Kijan Ou Ka Ede
 Si ou vle bay kòb pou achte materyèl:
 *   Paypall 
-*   Venmmo 
+*   Venmo 
 *   Cashapp 
 *   Trannsfè bankè
 
