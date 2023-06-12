@@ -1,5 +1,9 @@
+---
+layout: default
+---
+
 # Who Are We
-Welcome to PalmisHT. We are a group of Haitian citizen commit to bring psotive change to Haiti, with concrete actions. 
+Welcome to PalmisHT. We are a group of Haitian citizens commit to bring positive change to Haiti, with concrete actions. 
 
 # Rules 
 The objective of this private group is to:
@@ -8,13 +12,11 @@ The objective of this private group is to:
 ✅ Propose concrete projects and actions in the short term, medium and long term, in order to make Haiti a truly good country.
 
 As a member of the group, you can propose a project or an action.
-
 Or can support one either with your time, your money, or your expertise and experience.
 
-We will address our colleagues with:
+In this group, will address our colleagues with:
 
 ✅ Respect
-
 
 
 Avoid expulsion:
