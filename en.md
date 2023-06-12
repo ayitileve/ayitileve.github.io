@@ -35,4 +35,4 @@ Avoid expulsion:
 ❗️On the 3rd warning, the administrators will kick you out.❗
 
 # Projects 
-1. Medical supplies for Hôpital Universitaire Justinien, at Cap-Haitien
+1. [Medical supplies for Hôpital Universitaire Justinien, at Cap-Haitien](./justinien_en.html)
