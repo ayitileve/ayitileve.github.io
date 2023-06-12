@@ -11,7 +11,7 @@ We are in contact with a trusted doctor at the hospital, who give us a list of s
 |:---------------------|:------------------|:--------------------|
 | Gloves               | 50 boxes          | 1                   |
 | Sterile gloves       |                   | 1                   |
-| Gaz steril           |                   | 0                   |
+| Sterile gauze        |                   | 0                   |
 | Absorbable suture 1-0|                   | 0                   |
 | Absorbable suture 5-0|                   | 0                   |
 | Intracath 18         |                   | 1                   |
