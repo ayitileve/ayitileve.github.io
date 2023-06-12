@@ -7,6 +7,7 @@ Welcome to PalmisHT. We are a group of Haitian citizens commit to bring positive
 
 # Rules 
 The objective of this private group is to:
+
 ✅ Gather those who want to help Haiti but who either don't know how, or they don't find a reliable structure to join.
 
 ✅ Propose concrete projects and actions in the short term, medium and long term, in order to make Haiti a truly good country.
