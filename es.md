@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Quiénes Somos
-Bienvenido a PalmisHT. Somos un grupo de ciudadanos haitianos comprometidos en traer un cambio positivo a Haití, con acciones concretas.
+Bienvenido al grupo de Telegram PalmisHT. Somos un grupo de ciudadanos haitianos comprometidos en traer un cambio positivo a Haití, con acciones concretas.
 
 # Normas
 El objetivo de este grupo **privado** es:
